@@ -1,3 +1,5 @@
+# this is aarm strong num
+
 def fun(n):
 
     sum = 0
