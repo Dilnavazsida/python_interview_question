@@ -1,4 +1,4 @@
-# this is aarm strong num
+# this is Armstrong num
 
 def fun(n):
 
