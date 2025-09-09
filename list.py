@@ -11,7 +11,6 @@
 # print(comman_value)
 
 
-
 # lst1 = [1,2,3,4,5,6,7,8]
 # even = []
 # odd = []
@@ -166,6 +165,7 @@
 #            else:
 #                 d1[i] = 1
 # print(d1)
+
 
 
 # Output → {4:1, 5:2, 6:1}
